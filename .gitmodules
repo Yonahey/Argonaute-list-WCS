@@ -1,3 +1,6 @@
 [submodule "argonautes-list-app"]
 	path = argonautes-list-app
 	url = https://github.com/Yonahey/argonautes-list-app.git
+[submodule "Argonaute-list-server"]
+	path = Argonaute-list-server
+	url = https://github.com/Yonahey/Argonaute-list-server.git
